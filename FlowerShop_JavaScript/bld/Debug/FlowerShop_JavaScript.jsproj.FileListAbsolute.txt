@@ -1,0 +1,14 @@
+D:\_gitHub\FlowerShop_Win8\FlowerShop_JavaScript\bin\Debug\resources.pri
+D:\_gitHub\FlowerShop_Win8\FlowerShop_JavaScript\bin\Debug\AppxManifest.xml
+D:\_gitHub\FlowerShop_Win8\FlowerShop_JavaScript\bin\Debug\FlowerShop_JavaScript.build.appxrecipe
+D:\_gitHub\FlowerShop_Win8\FlowerShop_JavaScript\bld\Debug\FlowerShop_JavaScript.jsproj.GenerateResource.Cache
+D:\_gitHub\FlowerShop_Win8\FlowerShop_JavaScript\bld\Debug\priconfig.xml.intermediate
+D:\_gitHub\FlowerShop_Win8\FlowerShop_JavaScript\bld\Debug\layout.resfiles.intermediate
+D:\_gitHub\FlowerShop_Win8\FlowerShop_JavaScript\bld\Debug\resources.resfiles.intermediate
+D:\_gitHub\FlowerShop_Win8\FlowerShop_JavaScript\bld\Debug\pri.resfiles.intermediate
+D:\_gitHub\FlowerShop_Win8\FlowerShop_JavaScript\bld\Debug\priconfig.xml
+D:\_gitHub\FlowerShop_Win8\FlowerShop_JavaScript\bld\Debug\layout.resfiles
+D:\_gitHub\FlowerShop_Win8\FlowerShop_JavaScript\bld\Debug\resources.resfiles
+D:\_gitHub\FlowerShop_Win8\FlowerShop_JavaScript\bld\Debug\pri.resfiles
+D:\_gitHub\FlowerShop_Win8\FlowerShop_JavaScript\bld\Debug\LanguageQualifiers.txt
+D:\_gitHub\FlowerShop_Win8\FlowerShop_JavaScript\bld\Debug\ProjectArchitectures.txt

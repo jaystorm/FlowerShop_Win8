@@ -1,0 +1,24 @@
+c:\users\nochtap\documents\visual studio 2012\Projects\JS_FlowerShop\JS_FlowerShop\bin\Debug\resources.pri
+c:\users\nochtap\documents\visual studio 2012\Projects\JS_FlowerShop\JS_FlowerShop\bin\Debug\AppxManifest.xml
+c:\users\nochtap\documents\visual studio 2012\Projects\JS_FlowerShop\JS_FlowerShop\bin\Debug\JS_FlowerShop.build.appxrecipe
+c:\users\nochtap\documents\visual studio 2012\Projects\JS_FlowerShop\JS_FlowerShop\bld\Debug\JS_FlowerShop.jsproj.GenerateResource.Cache
+c:\users\nochtap\documents\visual studio 2012\Projects\JS_FlowerShop\JS_FlowerShop\bld\Debug\priconfig.xml.intermediate
+c:\users\nochtap\documents\visual studio 2012\Projects\JS_FlowerShop\JS_FlowerShop\bld\Debug\layout.resfiles.intermediate
+c:\users\nochtap\documents\visual studio 2012\Projects\JS_FlowerShop\JS_FlowerShop\bld\Debug\resources.resfiles.intermediate
+c:\users\nochtap\documents\visual studio 2012\Projects\JS_FlowerShop\JS_FlowerShop\bld\Debug\pri.resfiles.intermediate
+c:\users\nochtap\documents\visual studio 2012\Projects\JS_FlowerShop\JS_FlowerShop\bld\Debug\priconfig.xml
+c:\users\nochtap\documents\visual studio 2012\Projects\JS_FlowerShop\JS_FlowerShop\bld\Debug\layout.resfiles
+c:\users\nochtap\documents\visual studio 2012\Projects\JS_FlowerShop\JS_FlowerShop\bld\Debug\resources.resfiles
+c:\users\nochtap\documents\visual studio 2012\Projects\JS_FlowerShop\JS_FlowerShop\bld\Debug\pri.resfiles
+c:\users\nochtap\documents\visual studio 2012\Projects\JS_FlowerShop\JS_FlowerShop\bld\Debug\LanguageQualifiers.txt
+c:\users\nochtap\documents\visual studio 2012\Projects\JS_FlowerShop\JS_FlowerShop\bld\Debug\ProjectArchitectures.txt
+D:\_gitHub\FlowerShop_Win8\JS_FlowerShop\bin\Debug\resources.pri
+D:\_gitHub\FlowerShop_Win8\JS_FlowerShop\bin\Debug\AppxManifest.xml
+D:\_gitHub\FlowerShop_Win8\JS_FlowerShop\bin\Debug\JS_FlowerShop.build.appxrecipe
+D:\_gitHub\FlowerShop_Win8\JS_FlowerShop\bld\Debug\JS_FlowerShop.jsproj.GenerateResource.Cache
+D:\_gitHub\FlowerShop_Win8\JS_FlowerShop\bld\Debug\priconfig.xml
+D:\_gitHub\FlowerShop_Win8\JS_FlowerShop\bld\Debug\layout.resfiles
+D:\_gitHub\FlowerShop_Win8\JS_FlowerShop\bld\Debug\resources.resfiles
+D:\_gitHub\FlowerShop_Win8\JS_FlowerShop\bld\Debug\pri.resfiles
+D:\_gitHub\FlowerShop_Win8\JS_FlowerShop\bld\Debug\LanguageQualifiers.txt
+D:\_gitHub\FlowerShop_Win8\JS_FlowerShop\bld\Debug\ProjectArchitectures.txt
